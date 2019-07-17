@@ -1,0 +1,6 @@
+framework module IRPopupMenu {
+  umbrella header "IRPopupMenu.h"
+
+  export *
+  module * { export * }
+}

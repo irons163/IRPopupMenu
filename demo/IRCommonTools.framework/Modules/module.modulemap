@@ -1,0 +1,6 @@
+framework module IRCommonTools {
+  umbrella header "IRCommonTools.h"
+
+  export *
+  module * { export * }
+}
