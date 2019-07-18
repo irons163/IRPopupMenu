@@ -3,8 +3,8 @@
  * Custom popupMenu 
 
 # 效果图
-![(演示效果)](../demo/ScreenShots/demo1.png)
-![(演示效果)](../demo/ScreenShots/demo2.png)
+![(演示效果)](./demo/ScreenShots/demo1.png)
+![(演示效果)](./demo/ScreenShots/demo2.png)
 
 # cocoapods支持
   * 只需在`Podfile`中加入`pod 'IRPopupMenu', '~> 1.0.0'`后`pod install`即可
